@@ -8,7 +8,7 @@ layout: default
       <div class="info-card">
         <h1>谢良辉</h1>
         <a href="http://http://weibo.com/u/5301335010/home?wvr=5&lf=reg" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
-         src="http://d36xtkk24g8jdx.cloudfront.net/bluebar/00c6602/images/ico/favicon.ico" alt="" width="22"/></a>
+        </a>
       </div>
       <div id="particles-js"></div>
     </div>
